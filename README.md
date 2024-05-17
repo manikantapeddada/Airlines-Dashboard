@@ -10,11 +10,11 @@ Pilot Name: Name of Pilot,
 Airport Name: Name of Aiport Name,
 Flight Status: Status of Flight.
 ### Passenger Details:
-Passenger ID: Unique identifier for each passenger.
-First Name: Passenger's Fist Name.
-Last Name: Passenger's Last Name.
-Age: Passenger's age.
-Gender: Passenger's gender.
+Passenger ID: Unique identifier for each passenger,
+First Name: Passenger's Fist Name,
+Last Name: Passenger's Last Name,
+Age: Passenger's age,
+Gender: Passenger's gender,
 Nationality: Passenger's nationality.
 
 ### DATASET LINK - **https://drive.google.com/file/d/1NoMaGY5mfftUhvYFqn0tRWXFjp3O2ZRT/view?usp=sharing**
